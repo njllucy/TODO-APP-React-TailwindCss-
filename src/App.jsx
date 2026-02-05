@@ -80,7 +80,6 @@ const App = () => {
           Your Tasks
         </h1>
         <div className="flex flex-col gap-2">
-          {/* Sort pending first, completed last */}
           {[...task].sort((a, b) => a.completed - b.completed).map((elem) => (
             <div
               key={elem.id}

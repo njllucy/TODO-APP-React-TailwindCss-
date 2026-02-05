@@ -1,5 +1,5 @@
 {
-  "name": "brand-page",
+  "name": "TODO-APP",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://username.github.io/repo-name"
+
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
