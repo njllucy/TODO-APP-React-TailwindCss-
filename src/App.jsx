@@ -39,7 +39,7 @@ const App = () => {
   return (
     <>
       <div className="items-center flex flex-col justify-center">
-    <div className="flex flex-col justify-center items-start md:items-center py-5 px-4 min-h-screen bg-gray-100">
+    <div className="flex flex-col justify-center items-start md:items-center py-5 px-4 min-h-screen">
       <h1 className="text-4xl font-semibold text-purple-500 relative mt-5 items-center mb-5">TODO APP</h1>
       <div className="w-full md:w-[800px] border-2 border-purple-300 p-5 sm:p-10 rounded bg-white">
         {/* heading */}
